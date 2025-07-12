@@ -1,0 +1,85 @@
+{
+  "Frontend": [
+    {
+      "name": "React JS",
+      "level": "Beginner",
+      "experience": "8 month"
+    },
+    {
+      "name": "JavaScript",
+      "level": "Advanced",
+      "experience": "2 Years"
+    },
+    {
+      "name": "CSS",
+      "level": "Advanced",
+      "experience": "4 Years"
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Intermediate",
+      "experience": "1 Year"
+    }
+  ],
+  "Backend": [
+    {
+      "name": "Node.js",
+      "level": "Intermediate",
+      "experience": "1 Year"
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "experience": "1 Year"
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "experience": "1 Year"
+    },
+    {
+      "name": ".NET",
+      "level": "Beginner",
+      "experience": "1 Year"
+    },
+    {
+      "name": "Next.js",
+      "level": "Intermediate",
+      "experience": "1 Year"
+    }
+  ],
+  "Database": [
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "experience": "1 Year"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermediate",
+      "experience": "1 Year"
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "experience": "1 Year"
+    }
+  ],
+  "Other Tools": [
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "experience": "2 Years"
+    },
+    {
+      "name": "Lombok",
+      "level": "Beginner",
+      "experience": "1 Year"
+    },
+    {
+      "name": "Maven Projects",
+      "level": "Intermediate",
+      "experience": "1 Year"
+    }
+  ]
+}

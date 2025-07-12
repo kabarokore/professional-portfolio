@@ -1,0 +1,25 @@
+const experience = [
+  {
+    title: "Full Stack Web Developer",
+    institution: "kLab",
+    duration: "May 2025 – Present",
+    description:
+      "I learned and applied full stack web development using React.js for building dynamic front-end interfaces, Node.js for scalable back-end services, Tailwind CSS for responsive and modern styling, and database tools like MongoDB and PostgreSQL for data management. Throughout the training, I worked on team-based projects that strengthened my ability to design, build, and deploy fully functional web applications, while practicing version control with Git and collaborative development workflows.",
+  },
+  {
+    title: "Freelance Software Developer",
+    institution: "Remote",
+    duration: "June 2023 – November 2024",
+    description:
+      "As a freelance developer, I built responsive web interfaces with Next.js, TypeScript, and Tailwind CSS, including a Restaurant UI. I worked closely with clients to gather requirements, deliver user-friendly solutions, and manage projects independently, strengthening both my frontend and communication skills.",
+  },
+  {
+    title: "Software Development Intern",
+    institution: "Academic Bridge",
+    duration: "May 2021 – October 2022",
+    description:
+      "During my internship at Academic Bridge, I contributed to building MIS tools for local businesses. Projects included an auditing system, library management, and accounting applications. These solutions improved efficiency and user experience across clients. They also generated over one million Rwandan francs in revenue.",
+  },
+] as const;
+
+export default experience;

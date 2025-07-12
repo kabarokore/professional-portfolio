@@ -1,0 +1,8 @@
+
+const personalInfo ={
+  name: "Jesca Kabarokore",
+  title: "Aspiring Software Developer",
+  about: "I’m a soon-to-graduate Software Engineering student at the Adventist University of Central Africa (AUCA). I’m passionate about building efficient, user-friendly software and solving real-world problems through technology. My goal is to become a skilled full stack developer who creates reliable and impactful applications."
+} as const
+
+export default personalInfo

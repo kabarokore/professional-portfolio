@@ -1,0 +1,31 @@
+[
+  {
+    "id": "9",
+    "image": "/assets/gerayo.png",
+    "title": "Rwanda public transport app",
+    "description": "Gerayo is a mobile application designed to provide real-time information about public transport in Rwanda. It helps users find nearby bus stops, view bus schedules, and track the location of buses in real-time. The app aims to improve the overall public transport experience by making it more accessible and user-friendly.",
+    "languages": [
+      "REACTJS",
+      "TAILWIND CSS",
+      "NODEJS",
+      "FIREBASE"
+    ],
+    "live": "https://gerayo.sorwazini.tech/",
+    "code": "https://github.com/kabarokore"
+  },
+{
+    "id": "9",
+    "image": "/assets/momo.png",
+    "title": "MOMO user transaction analysis dashboard",
+    "description": "MOMO is a user transaction analysis dashboard that provides insights into user transactions, including transaction history, trends, and patterns. It helps users understand their spending habits and make informed financial decisions. The dashboard is designed to be user-friendly and visually appealing, making it easy for users to navigate and access their transaction data.",
+    "languages": [
+      "HTML5",
+      "CSS3",
+      "JAVASCRIPT",
+      "FlASK",
+      "PYTHON",
+      "FIREBASE"
+    ],
+    "live": "not yet deployed",
+    "code": "https://github.com/mutabazi-bruno/MoMo-Data-Analysis-Summative-Group-32.git"
+  }]

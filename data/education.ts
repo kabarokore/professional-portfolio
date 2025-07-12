@@ -1,0 +1,9 @@
+const education = [
+  {
+    title: "Bachelor degree in Information Technology Emphasis in Software Engineering",
+    institution: "Adventist University of Central Africa (AUCA), Kigali, Rwanda",
+    duration: "2022 – Present (Awaiting Graduation)",
+  },
+] as const
+
+export default education
